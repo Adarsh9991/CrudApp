@@ -1,0 +1,16 @@
+
+
+.appbar {
+  background-color: black !important;
+}
+
+.nav-tab {
+  text-decoration: none;
+  font-size: large;
+  color: white;
+}
+
+.userForm {
+  width: 50%;
+  margin: 40px auto 10px auto !important;
+}
